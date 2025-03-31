@@ -5,8 +5,8 @@
 ---
 
 ## <ins>Education</ins>
-<!-- #### B.A. in Computational Cognitive Sciences | Rice University - _May 2024_ <br />Data Science and Neuroscience Minor -->
-- B.A., Computational Cog. Sci. | Rice University (_May 2024_)
+B.A., Computational Cog. Sci. | Rice University (_May 2024_)
+
 ---
 
 ## <ins>Research</ins>
@@ -14,7 +14,7 @@
 *Radiation Oncology Branch*<br />
 **Advisors: Andra V. Krauze, Erdal Tasci**
 
-**Baylor College of Medicine | (_June 2024 - Oct. 2024_)**<br />
+**Baylor College of Medicine | (_Jan. 2024 - May 2024_)**<br />
 *Russel S. Ray Lab of Molecular Neurobiology*<br />
 **Advisors: Russel S. Ray, Christopher Ward**
 
