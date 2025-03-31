@@ -170,5 +170,7 @@ The findings suggest hippocampal volume **does** play a role in memory performan
 
 ### Multivariate Data Analysis of Linguistic Biomarkers for Parkinson’s Disease (PD) - _Rice University_
 
-<iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="100%"></iframe>
-<iframe src="https://michael-popa.github.io/Monologuing%20Age%20Group.html" width="100%" height="100%"></iframe>
+As Parkinson's disease is known to target older individuals, it is key to identify the onset of the disease as quick as possible. 
+
+<iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="400px"></iframe>
+<iframe src="https://michael-popa.github.io/Monologuing%20Age%20Group.html" width="100%" height="400px"></iframe>
