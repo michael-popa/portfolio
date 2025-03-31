@@ -174,9 +174,9 @@ As Parkinson's disease is known to target older individuals, it is key to identi
 
 Therefore, their speech patterns, if similar to PD patients, could be considered early biomarkers of Parkinson's. The participants perform a series of tasks, and a number of linguistic characteristics are measured.
 
-<img src="images/Rate of Speech Timing.gif?raw=true" />
-<img src="images/Duration of Unvoiced Stops.gif?raw=true" />
-<img src="images/Duration of Pause Intervals.gif?raw=true" />
+<img src="images/Rate of Speech Timing CROPPED.gif?raw=true" style="width: 80%; height: 80%;" /> />
+<img src="images/Duration of Unvoiced Stops CROPPED.gif?raw=true" style="width: 80%; height: 80%;" /> />
+<img src="images/Duration of Pause Intervals CROPPED.gif?raw=true" style="width: 80%; height: 80%;" /> />
 
 
 
