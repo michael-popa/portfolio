@@ -71,15 +71,29 @@ Two modeling approaches were explored: <br>
 
 <img src="images/2D CNN.jpg?raw=true" />
 
-The approaches showed great promise for future implementations. Given the novel nature of this work, the data collected was not sufficient to accurately conclude model efficiency.
+The approaches showed great promise for future implementations. Though, the novel nature of this work the data collection was insufficient to accurately conclude model efficacy.
 <br><br>
-In the coming years, the lab will collect more data and may perform further analysis into our implementation.
+The pipeline automation proved to be successful. Thus, in the coming years, the lab will collect more data and may perform further model analysis.
 
 <br><br>
 <br><br>
 
 ---
 
+### Predicting Synaptic Activity Based On Axonal-Dendritic Proximity (ADP) - _Rice University_
 
+When the axon of one neuron comes close to the dendrite of another neuron, that is the axonal-dendritic proximity - every synapse results from an ADP, but not every ADP results in a synapse. Thus, we develop a binary classification problem using machine learning to predict ADP-to-synapse conversion.
 
+The activity of neurons in the visual cortex of a mouse were imaged with 2-photon (2P) microscopy, and every neuron was reconstructed in 3D.
 
+<img src="images/ADP.jpg?raw=true" />
+
+The development process involved preprocessing, feature engineering, modeling, hyperparameter tuning, and cross-validation.
+
+<img src="images/Engineered Features.jpg?raw=true" />
+
+The focus was on four predictive modeling techniques: Support Vector Machines (SVMs), Random Forest (RF), Deep-Learning, and Model Stacking.
+
+<br>
+
+Model stacking proved to be most predictive with the following algorithms: linear Support Vector Machines, Adaptive Boosting, Gradient Boosting, K-Nearest Neighbors, and Random Forest as base learners, and a linear SVM as a meta learner.
