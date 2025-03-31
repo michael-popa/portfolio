@@ -2,12 +2,12 @@
 
 #### Technical Skills: Python, MATLAB, R, SQL, AWS, Git, SPM, AFNI
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 ## <ins>Education</ins>
 B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 ## <ins>Research</ins>
 **National Cancer Institute (NCI/NIH) | (_June 2024 - Oct. 2024_)**<br />
@@ -22,7 +22,7 @@ B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 *Rice Data to Knowledge (D2K)*<br />
 **Advisors: Bartlett D. Moore, Genevera Allen**
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 ## <ins>Projects</ins>
 
