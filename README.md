@@ -5,8 +5,7 @@
 ---
 
 ## Education	        		
-#### B.A., Computational Cognitive Sciences | Rice University (_May 2024_)
-#### Data Science and Neuroscience Minor
+#### B.A., Computational Cognitive Sciences | Rice University (_May 2024_)<br />Data Science and Neuroscience Minor
 
 ---
 
@@ -18,3 +17,13 @@
 **Baylor College of Medicine | (_June 2024 - Oct. 2024_)**<br />
 *Russel S. Ray Lab of Molecular Neurobiology*<br />
 **Advisors: Russel S. Ray, Christopher Ward**
+
+**Baylor College of Medicine | (_Jan. 2024 - June 2024_)**<br />
+*Russel S. Ray Lab of Molecular Neurobiology*<br />
+**Advisors: Russel S. Ray, Christopher Ward**
+
+**Rice University School of Engineering | (_Aug. 2022 - May 2024_)**<br />
+*Rice Data to Knowledge (D2K)*<br />
+**Advisors: Bartlett D. Moore, Genevera Allen**
+
+---
