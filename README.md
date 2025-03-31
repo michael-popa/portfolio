@@ -22,7 +22,7 @@ B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 *Rice Data to Knowledge (D2K)*<br />
 **Advisors: Bartlett D. Moore, Genevera Allen**
 
----
+<hr style="border:20px solid gray">
 
 ## <ins>Projects</ins>
 
