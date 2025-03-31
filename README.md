@@ -84,6 +84,19 @@ The approaches showed great promise for future implementations. Though, the nove
 <br><br>
 The pipeline automation proved to be successful. Thus, in the coming years, the lab will collect more data and may perform further model analysis.
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
 <br><br>
 <br><br>
 
@@ -110,6 +123,16 @@ Model stacking proved to be most predictive with the following algorithms: linea
 The receiver operating characteristic curve demonstrates great performance for true positives against false positives. 
 
 The effort achieved ∼79.611% accuracy, which was a significant advancement from the expected/traditional score of ∼77% +/-1%. Furthermore, we find the most important feature in synaptic prediction is the depth of the dendritic ADP, alongside the pre-synaptic neuron’s receptive field vertical location.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Jupyter Notebook](https://camo.githubusercontent.com/55b0c06404092071078dabdf9cc39b52a40ba653415dde70919cae77628f8cca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4c61622d4633373632362e7376673f7374796c653d666c6174266c6f676f3d4a757079746572)
 
 <br><br>
 <br><br>
