@@ -32,4 +32,12 @@ Performed feature extraction, selection and engineering on multi-omic (proteomic
 
 <img src="images/Figure 1 NCI.jpg?raw=true" />
 
+The metabolomic data is first put into an RFE w/ K-Fold CV to find the most important features, which are then put into a deep-learning stacked autoencoder to compress the data. The compressed feature space is then put into another Random Forest to evaluate performance.
+
+<img src="images/Figure 2 NCI.jpg?raw=true" />
+
+Once the best parameters and architectures are found, the autoencoder uses only the encoder portion in attempt to reconstruct only one target feature. The target feature can be a compound, giving us insights of which other compounds are most similar to the target.
+
+<img src="images/Figure 3 NCI.jpg?raw=true" />
+
 ---
