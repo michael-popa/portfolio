@@ -2,8 +2,13 @@
 
 #### Technical Skills: Python, MATLAB, R, SQL, AWS, Git, SPM, AFNI
 
+---
+
 ## Education	        		
 #### B.A., Computational Cognitive Sciences | Rice University (_May 2024_)
+#### Data Science and Neuroscience Minor
+
+---
 
 ## Research
 **National Cancer Institute (NCI/NIH) | (_June 2024 - Oct. 2024_)**<br />
