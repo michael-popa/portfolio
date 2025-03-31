@@ -5,8 +5,8 @@
 ---
 
 ## <ins>Education</ins>
-#### B.A. in Computational Cognitive Sciences | Rice University - _May 2024_ <br />Data Science and Neuroscience Minor
-
+<!-- #### B.A. in Computational Cognitive Sciences | Rice University - _May 2024_ <br />Data Science and Neuroscience Minor -->
+- B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 ---
 
 ## <ins>Research</ins>
