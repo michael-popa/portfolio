@@ -49,9 +49,6 @@ The result found 30+ novel metabolites that may show promise as biomarkers for g
 
 ---
 
-<br><br>
-<br><br>
-
 ### Identifying Cardio-Respiratory Signatures of SIDS in Mouse Models - _Baylor College of Medicine_
 
 The underlying mechanisms of SIDS remain elusive due to its unpredictability on pre-mortem data. By leveraging a unique dataset derived from mouse pups simulating SIDS conditions, advanced signal processing techniques were combined with machine learning to analyze cardio-respiratory waveforms, given the hope of potential biomarker discovery.
@@ -64,6 +61,20 @@ Raw ECG data was extensively preprocessed to extract meaningful information (e.g
 * **Feature Selection**: 192 Features collected for each mouse sample → 51 features selected and engineered to predict SIDS.
 * **Feature Engineering**: Using the raw ECG signal, the common segments present in a heartbeat interval (the QRS points) were detected.
 
+Two modeling approaches were explored: <br><br>
+
+(1) A **1D convolutional neural network (CNN) with Long Short-Term Memory (LSTM)** utilizing engineered tabular features.
+
+<img src="images/1D CNN with LSTM.jpg?raw=true" />
+
+(2) A **2D CNN** utilizing spectrograms.
+
+<img src="images/2D CNN.jpg?raw=true" />
+
+<br><br>
+<br><br>
+
+---
 
 
 
