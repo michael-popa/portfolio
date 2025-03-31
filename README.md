@@ -170,7 +170,12 @@ The findings suggest hippocampal volume **does** play a role in memory performan
 
 ### Multivariate Data Analysis of Linguistic Biomarkers for Parkinson’s Disease (PD) - _Rice University_
 
-As Parkinson's disease is known to target older individuals, it is key to identify the onset of the disease as quick as possible. 
+As Parkinson's disease is known to target older individuals, it is key to identify the onset of the disease as quick as possible. Hlavnička et al. (2017) sought to uncover early biomarkers of PD in patients with rapid eye movement sleep behavior disorder (RBD), as they are at high risk of developing PD.
 
-<iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="400px"></iframe>
-<iframe src="https://michael-popa.github.io/Monologuing%20Age%20Group.html" width="100%" height="400px"></iframe>
+Therefore, their speech patterns, if similar to PD patients, could be considered early biomarkers of Parkinson's. The participants perform a series of tasks, and a number of linguistic characteristics are measured.
+
+<img src="images/Combined.gif?raw=true" />
+
+
+<iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="500px"></iframe>
+
