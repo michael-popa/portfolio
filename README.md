@@ -61,7 +61,7 @@ Raw ECG data was extensively preprocessed to extract meaningful information (e.g
 * **Feature Selection**: 192 Features collected for each mouse sample → 51 features selected and engineered to predict SIDS.
 * **Feature Engineering**: Using the raw ECG signal, the common segments present in a heartbeat interval (the QRS points) were detected.
 
-Two modeling approaches were explored: <br><br>
+Two modeling approaches were explored: <br>
 
 (1) A **1D convolutional neural network (CNN) with Long Short-Term Memory (LSTM)** utilizing engineered tabular features.
 
@@ -70,6 +70,10 @@ Two modeling approaches were explored: <br><br>
 (2) A **2D CNN** utilizing spectrograms.
 
 <img src="images/2D CNN.jpg?raw=true" />
+
+The approaches showed great promise for future implementations. Given the novel nature of this work, the data collected was not sufficient to accurately conclude model efficiency.
+<br><br>
+In the coming years, the lab will collect more data and may perform further analysis into our implementation.
 
 <br><br>
 <br><br>
