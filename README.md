@@ -23,3 +23,12 @@ B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 **Advisors: Bartlett D. Moore, Genevera Allen**
 
 ---
+
+## <ins>Projects</ins>
+
+### Navigating Omic Changes by Radiation Therapy in High-Grade Glioma/Glioblastoma
+
+Performed feature extraction, selection and engineering on multi-omic (proteomic, metabolomic) data from patients with pathology proven glioblastoma, a grade 4 brain tumor/glioma. This is in conjunction with research and development of AI models that can assist in revealing potential serum biomarkers, in addition to prediction of tumor characteristics (size, location, morphology, etc.) and patient outcomes. 
+
+
+---
