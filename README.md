@@ -120,7 +120,9 @@ The focus was on four predictive modeling techniques: Support Vector Machines (S
 
 Model stacking proved to be most predictive with the following algorithms: linear Support Vector Machines, Adaptive Boosting, Gradient Boosting, K-Nearest Neighbors, and Random Forest as base learners, and a linear SVM as a meta learner. Validated through Randomized and GridSearch cross-validation.
 
-<img src="images/ROC Curve.jpg?raw=true" />
+<p align="center">
+  <img src="images/ROC Curve.jpg?raw=true" style="width: 75%; height: 75%;" />
+</p>
 
 The receiver operating characteristic curve demonstrates great performance for true positives against false positives. 
 
