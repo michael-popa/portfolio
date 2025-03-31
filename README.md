@@ -94,6 +94,15 @@ The development process involved preprocessing, feature engineering, modeling, h
 
 The focus was on four predictive modeling techniques: Support Vector Machines (SVMs), Random Forest (RF), Deep-Learning, and Model Stacking.
 
-<br>
-
 Model stacking proved to be most predictive with the following algorithms: linear Support Vector Machines, Adaptive Boosting, Gradient Boosting, K-Nearest Neighbors, and Random Forest as base learners, and a linear SVM as a meta learner.
+
+<img src="images/ROC Curve.jpg?raw=true" />
+
+The receiver operating characteristic curve demonstrates performance on true positives against false positives. 
+
+The effort achieved ∼79.611% accuracy, which was a significant advancement from the expected/traditional score of ∼77% +/-1%. Furthermore, we find the most important feature in synaptic prediction is the depth of the dendritic ADP, alongside the pre-synaptic neuron’s receptive field vertical location.
+
+<br><br>
+<br><br>
+
+---
