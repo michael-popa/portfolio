@@ -7,3 +7,9 @@ body {
   margin: 20px;
   background-color: #f0f0f0;
 }
+
+img {
+  border: 3px solid #900C3F;   /* Crimson border */
+  border-radius: 8px;          /* Rounded corners */
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  /* Shadow */
+}
