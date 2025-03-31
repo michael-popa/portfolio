@@ -174,11 +174,21 @@ As Parkinson's disease is known to target older individuals, it is key to identi
 
 Therefore, their speech patterns, if similar to PD patients, could be considered early biomarkers of Parkinson's. The participants perform a series of tasks, and a number of linguistic characteristics are measured.
 
-<img src="images/Rate of Speech Timing CROPPED.gif?raw=true" style="width: 80%; height: 80%;" /> />
-<img src="images/Duration of Unvoiced Stops CROPPED.gif?raw=true" style="width: 80%; height: 80%;" /> />
-<img src="images/Duration of Pause Intervals CROPPED.gif?raw=true" style="width: 80%; height: 80%;" /> />
+In R, we perform ANOVA testing with a Tukey Honest Significance Difference on three groups: PD, RBD, and a control group. The following animated box plots can show the results:
 
+<img src="images/Rate of Speech Timing CROPPED.gif?raw=true" style="width: 80%; height: 80%;" />
 
+---
+
+<img src="images/Duration of Unvoiced Stops CROPPED.gif?raw=true" style="width: 80%; height: 80%;" />
+
+---
+
+<img src="images/Duration of Pause Intervals CROPPED.gif?raw=true" style="width: 80%; height: 80%;" />
+
+Further, a variety of statistical tests and analysis is performed, such as Pearson correlation, R-squared, linear regression, t-test, and an f-statistic.
+
+Taking into account age, it results in the interactive box plots below.
 
 <iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="500px"></iframe>
 
