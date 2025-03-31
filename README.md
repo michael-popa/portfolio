@@ -174,7 +174,10 @@ As Parkinson's disease is known to target older individuals, it is key to identi
 
 Therefore, their speech patterns, if similar to PD patients, could be considered early biomarkers of Parkinson's. The participants perform a series of tasks, and a number of linguistic characteristics are measured.
 
-<img src="images/Combined.gif?raw=true" />
+<img src="images/Rate of Speech Timing.gif?raw=true" />
+<img src="images/Duration of Unvoiced Stops.gif?raw=true" />
+<img src="images/Duration of Pause Intervals.gif?raw=true" />
+
 
 
 <iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="500px"></iframe>
