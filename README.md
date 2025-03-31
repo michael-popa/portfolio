@@ -30,5 +30,6 @@ B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 
 Performed feature extraction, selection and engineering on multi-omic (proteomic, metabolomic) data from patients with pathology proven glioblastoma, a grade 4 brain tumor/glioma. This is in conjunction with research and development of AI models that can assist in revealing potential serum biomarkers, in addition to prediction of tumor characteristics (size, location, morphology, etc.) and patient outcomes. 
 
+<img src="images/Figure 1 NCI.jpg?raw=true" />
 
 ---
