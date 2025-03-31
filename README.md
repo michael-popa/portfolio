@@ -28,7 +28,9 @@ B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 
 ### Navigating Omic Changes by Radiation Therapy in High-Grade Glioma/Glioblastoma - _National Cancer Institute_
 
-Performed feature extraction, selection and engineering on multi-omic (proteomic, metabolomic) data from patients with pathology proven glioblastoma, a grade 4 brain tumor/glioma. This is in conjunction with research and development of AI models that can assist in revealing potential serum biomarkers, in addition to prediction of tumor characteristics (size, location, morphology, etc.) and patient outcomes. 
+Performed feature extraction, selection and engineering on multi-omic (proteomic, metabolomic) data from patients with pathology proven glioblastoma, a grade 4 brain tumor/glioma. This is in conjunction with research and development of AI models that can assist in revealing potential serum biomarkers, in addition to prediction of tumor characteristics (size, location, morphology, etc.) and patient outcomes.
+
+The high-dimensional dataset consisted of 6,015 metabolomic features with only 214 patient serum samples.
 
 <img src="images/Figure 1 NCI.jpg?raw=true" />
 
@@ -139,8 +141,10 @@ The effort achieved ∼79.611% accuracy, which was a significant advancement fro
 
 ---
 
-### Memory Performance and Hippocampal Volume: A Deep-Learning Simulation of Visual Encoding and Retrieval - _Rice University_
+### Memory Performance and Hippocampal Volume: A Simulation of Visual Encoding and Retrieval - _Rice University_
 
 The relationship between memory performance and hippocampal volume remains a debate. Thus, by simulating appropriate limbic system structures (entorhinal + temporal cortex, DG, CA3, CA1) in a covolutional stacked autoencoder model, we may find unique changes in visual encoding and retrieval based on layer variation.
 
 <img src="images/Hippocampus.jpg?raw=true" />
+
+The data consisted of  70,000 28x28 black and white images from 10 clothing categories.
