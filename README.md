@@ -143,8 +143,22 @@ The effort achieved ∼79.611% accuracy, which was a significant advancement fro
 
 ### Memory Performance and Hippocampal Volume: A Simulation of Visual Encoding and Retrieval - _Rice University_
 
-The relationship between memory performance and hippocampal volume remains a debate. Thus, by simulating appropriate limbic system structures (entorhinal + temporal cortex, DG, CA3, CA1) in a covolutional stacked autoencoder model, we may find unique changes in visual encoding and retrieval based on layer variation.
+The relationship between memory performance and hippocampal volume remains a debate. Thus, by simulating appropriate limbic system structures (entorhinal + temporal cortex, DG, CA3, CA1) in a 2D Covolutional Autoencoder model, we may find unique changes in visual encoding and retrieval based on layer variation.
 
 <img src="images/Hippocampus.jpg?raw=true" />
 
-The data consisted of  70,000 28x28 black and white images from 10 clothing categories.
+The data consisted of  70,000 28x28 black and white images from 10 clothing categories. By targeting lesions in various subregions of the medial temporal lobe, we have a clearer idea of how that impacts memory performance of visual stimuli.
+
+This is an example of how visual details can be lost during retrieval over time:
+
+<img src="images/Retrieval Example.jpg?raw=true" />
+
+The findings suggest hippocampal volume **does** play a role in memory performance, depending heavily on the specific layer that is damaged. Further, the model shows that the ability to generalize a visual stimulus does not come solely from the shape and structure but also from the shade of the image.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+![Jupyter Notebook](https://camo.githubusercontent.com/55b0c06404092071078dabdf9cc39b52a40ba653415dde70919cae77628f8cca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4c61622d4633373632362e7376673f7374796c653d666c6174266c6f676f3d4a757079746572)
