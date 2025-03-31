@@ -46,6 +46,10 @@ The result found 30+ novel metabolites that may show promise as biomarkers for g
 
 <br><br>
 <br><br>
+
+---
+
+<br><br>
 <br><br>
 
 ### Identifying Cardio-Respiratory Signatures of SIDS in Mouse Models - _Baylor College of Medicine_
@@ -56,5 +60,11 @@ Raw ECG data was extensively preprocessed to extract meaningful information (e.g
 
 <img src="images/QRS Detection Large.jpg?raw=true" />
 
-![image](https://github.com/user-attachments/assets/4c14cb07-dc19-4afb-832b-72f039aa9362)
+* **Data**: Readings collected from ~400 mice pups categorized into: Heart data, Breath data and Raw signal data.
+* **Feature Selection**: 192 Features collected for each mouse sample → 51 features selected and engineered to predict SIDS.
+* **Feature Engineering**: Using the raw ECG signal, the common segments present in a heartbeat interval (the QRS points) were detected.
+
+
+
+
 
