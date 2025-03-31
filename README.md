@@ -138,3 +138,9 @@ The effort achieved ∼79.611% accuracy, which was a significant advancement fro
 <br><br>
 
 ---
+
+### Memory Performance and Hippocampal Volume: A Deep-Learning Simulation of Visual Encoding and Retrieval - _Rice University_
+
+The relationship between memory performance and hippocampal volume remains a debate. Thus, by simulating appropriate limbic system structures (entorhinal + temporal cortex, DG, CA3, CA1) in a covolutional stacked autoencoder model, we may find unique changes in visual encoding and retrieval based on layer variation.
+
+<img src="images/Hippocampus.jpg?raw=true" />
