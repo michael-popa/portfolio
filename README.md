@@ -110,19 +110,19 @@ The activity of neurons in the visual cortex of a mouse were imaged with 2-photo
 
 <img src="images/ADP.jpg?raw=true" />
 
-The development process involved preprocessing, feature engineering, modeling, hyperparameter tuning, and cross-validation.
+The data transformation steps include: resampling (SMOTE, Undersampling, bootstrapping), feature selection (RFE, Lasso, Tree-based), dimensionality reduction, and feature engineering.
 
 <img src="images/Engineered Features.jpg?raw=true" />
 
 The focus was on four predictive modeling techniques: Support Vector Machines (SVMs), Random Forest (RF), Deep-Learning, and Model Stacking.
 
-Model stacking proved to be most predictive with the following algorithms: linear Support Vector Machines, Adaptive Boosting, Gradient Boosting, K-Nearest Neighbors, and Random Forest as base learners, and a linear SVM as a meta learner.
+Model stacking proved to be most predictive with the following algorithms: linear Support Vector Machines, Adaptive Boosting, Gradient Boosting, K-Nearest Neighbors, and Random Forest as base learners, and a linear SVM as a meta learner. Validated through Randomized and GridSearch cross-validation.
 
 <img src="images/ROC Curve.jpg?raw=true" />
 
 The receiver operating characteristic curve demonstrates great performance for true positives against false positives. 
 
-The effort achieved ∼79.611% accuracy, which was a significant advancement from the expected/traditional score of ∼77% +/-1%. Furthermore, we find the most important feature in synaptic prediction is the depth of the dendritic ADP, alongside the pre-synaptic neuron’s receptive field vertical location.
+The effort achieved ∼79.611% accuracy, which was a significant advancement from the expected/traditional score of ∼77% +/-1%. Furthermore, the runtime was considered the lowest of all traditional implementations (~2.6 min.). Lastly, we find the most important feature in synaptic prediction is the depth of the dendritic ADP, alongside the pre-synaptic neuron’s receptive field vertical location.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
