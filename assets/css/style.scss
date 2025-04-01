@@ -9,12 +9,13 @@ body {
 
 img {
   border-radius: 8px;          /* Rounded corners */
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  /* Shadow */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);  /* Shadow */
 }
 
 .circular-image {
   border-radius: 50%;
   border: 3px solid #dbd0d0; /* Adjust color and thickness as needed */
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  /* Shadow */
 }
 
 /* Exclude or customize the style for images with the .no-style class */
@@ -25,4 +26,8 @@ img {
 
 .nci {
   border: 3px solid #900C3F;   /* Crimson border */
+}
+
+.bcm {
+  border: 3px solid #0c1390;   /* Crimson border */
 }
