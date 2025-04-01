@@ -9,13 +9,21 @@ body {
 }
 
 img {
-  border: 3px solid #900C3F;   /* Crimson border */
   border-radius: 8px;          /* Rounded corners */
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  /* Shadow */
+}
+
+.circular-image {
+  border-radius: 50%;
+  border: 3px solid #dbd0d0; /* Adjust color and thickness as needed */
 }
 
 /* Exclude or customize the style for images with the .no-style class */
 .no-style {
   border: none;  /* No border */
   box-shadow: none;  /* No shadow */
+}
+
+.nci {
+  border: 3px solid #900C3F;   /* Crimson border */
 }
