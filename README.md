@@ -203,7 +203,6 @@ Taking into account age, we can create an interactive box plot. Here's an exampl
 
 <iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="500px"></iframe>
 
-<br>
 
 We can additionally plot the rate of speech respiration against the duration of pause intervals, and see similarities between the PD group and the group at risk (when compared to healthy controls).
 
@@ -211,4 +210,8 @@ We can additionally plot the rate of speech respiration against the duration of 
   <img src="images/Rate of Speech Respiration vs Duration of Pause Intervals.jpg?raw=true" style="width: 90%; height: 90%;" class="pd" />
 </p>
 
+The clearest case difference comes from measuring the **duration of pause intervals and duration of phonemes**, with Parkinson's disease patients having similar performance with those at risk - performance worsens compared to the healthy controls. Thus, there is potential in these linguistic characteristics becoming biomarkers in the future.
+
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)
 
