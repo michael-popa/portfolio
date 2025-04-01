@@ -5,7 +5,7 @@
 
 
 ## Education
-* **B.A., Computational Cog. Sci. | Rice University** (_May 2024_)
+* B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 
 
 
