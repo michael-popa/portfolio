@@ -13,15 +13,15 @@
 ## Research
 **National Cancer Institute (NCI/NIH) | (_June 2024 - Oct. 2024_)**<br />
 *Radiation Oncology Branch*<br />
-**Advisors: Andra V. Krauze, Erdal Tasci**
+<b>Advisors: Andra V. Krauze, Erdal Tasci</b>
 
 **Baylor College of Medicine | (_Jan. 2024 - May 2024_)**<br />
 *Russel S. Ray Lab of Molecular Neurobiology*<br />
-**Advisors: Russel S. Ray, Christopher Ward**
+<b>Advisors: Russel S. Ray, Christopher Ward</b>
 
 **Rice University School of Engineering | (_Aug. 2022 - May 2024_)**<br />
 *Rice Data to Knowledge (D2K)*<br />
-**Advisors: Bartlett D. Moore, Genevera Allen**
+<b>Advisors: Bartlett D. Moore, Genevera Allen</b>
 
 ---
 
@@ -182,18 +182,18 @@ Therefore, their speech patterns, if similar to PD patients, could be considered
 In R, we perform ANOVA testing with a Tukey Honest Significance Difference on three groups: PD, RBD, and a control group. The following animated box plots can show the results:
 
 <p align="center">
-  <img src="images/Rate of Speech Timing CROPPED.gif?raw=true" style="width: 80%; height: 80%;" />
+  <img src="images/Rate of Speech Timing CROPPED.gif?raw=true" style="width: 80%; height: 80%;" class="pd" />
 </p>
 ---
 
 <p align="center">
-  <img src="images/Duration of Unvoiced Stops CROPPED.gif?raw=true" style="width: 80%; height: 80%;" />
+  <img src="images/Duration of Unvoiced Stops CROPPED.gif?raw=true" style="width: 80%; height: 80%;" class="pd" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="images/Duration of Pause Intervals CROPPED.gif?raw=true" style="width: 80%; height: 80%;" />
+  <img src="images/Duration of Pause Intervals CROPPED.gif?raw=true" style="width: 80%; height: 80%;" class="pd" />
 </p>
 
 Further, a variety of statistical tests and analysis is performed, such as Pearson correlation, R-squared, linear regression, t-test, and an f-statistic.
