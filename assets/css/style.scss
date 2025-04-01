@@ -8,10 +8,14 @@ body {
   /* font-family: 'Roboto', sans-serif; */
   /* font-family: "EB Garamond", serif; */
   font-family: "Red Hat Display", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
+  font-optical-sizing: none;
+  font-weight: 350;
   font-style: normal;
   font-size: 16px;
+}
+
+h1 {
+  text-align: center;
 }
 
 img {
