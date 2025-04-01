@@ -110,7 +110,7 @@ When the axon of one neuron comes close to the dendrite of another neuron, that 
 
 The activity of neurons in the visual cortex of a mouse were imaged with 2-photon (2P) microscopy, and every neuron was reconstructed in 3D.
 
-<img src="images/ADP.jpg?raw=true" />
+<img src="images/ADP.jpg?raw=true" class="adp" />
 
 The data transformation steps include: resampling (SMOTE, Undersampling, bootstrapping), feature selection (RFE, Lasso, Tree-based), dimensionality reduction, and feature engineering.
 
@@ -123,7 +123,7 @@ The focus was on four predictive modeling techniques: Support Vector Machines (S
 Model stacking proved to be most predictive with the following algorithms: linear Support Vector Machines, Adaptive Boosting, Gradient Boosting, K-Nearest Neighbors, and Random Forest as base learners, and a linear SVM as a meta learner. Validated through Randomized and GridSearch cross-validation.
 
 <p align="center">
-  <img src="images/ROC Curve.jpg?raw=true" style="width: 75%; height: 75%;" />
+  <img src="images/ROC Curve.jpg?raw=true" style="width: 75%; height: 75%;" class="adp" />
 </p>
 
 The receiver operating characteristic curve demonstrates great performance for true positives against false positives. 
@@ -149,13 +149,13 @@ The effort achieved ∼79.611% accuracy, which was a significant advancement fro
 
 The relationship between memory performance and hippocampal volume remains a debate. Thus, by simulating appropriate limbic system structures (entorhinal + temporal cortex, DG, CA3, CA1) in a 2D Covolutional Autoencoder model, we may find unique changes in visual encoding and retrieval based on layer variation.
 
-<img src="images/Hippocampus.jpg?raw=true" />
+<img src="images/Hippocampus.jpg?raw=true" class="hippocampus" />
 
 The data consisted of  70,000 28x28 black and white images from 10 clothing categories. By targeting lesions in various subregions of the medial temporal lobe, we have a clearer idea of how that impacts memory performance of visual stimuli.
 
 This is an example of how visual details can be lost during retrieval over time:
 
-<img src="images/Retrieval Example.jpg?raw=true" />
+<img src="images/Retrieval Example.jpg?raw=true" class="hippocampus" />
 
 The findings suggest hippocampal volume **does** play a role in memory performance, depending heavily on the specific layer that is damaged. Further, the model shows that the ability to generalize a visual stimulus does not come solely from the shape and structure but also from the shade of the image.
 
