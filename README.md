@@ -7,7 +7,7 @@
 
 ## Education
 
-* B.A., Cognitive Sciences | Rice University (_May 2024_)
+* B.A., Comp. Cognitive Sciences | Rice University (_May 2024_)
 
 
 
