@@ -4,12 +4,12 @@
 
 ---
 
-## <ins>Education</ins>
+## Education
 B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 
 ---
 
-## <ins>Research</ins>
+## Research
 **National Cancer Institute (NCI/NIH) | (_June 2024 - Oct. 2024_)**<br />
 *Radiation Oncology Branch*<br />
 **Advisors: Andra V. Krauze, Erdal Tasci**
@@ -24,7 +24,7 @@ B.A., Computational Cog. Sci. | Rice University (_May 2024_)
 
 ---
 
-## <ins>Projects</ins>
+## Projects
 
 ### Navigating Omic Changes by Radiation Therapy in High-Grade Glioma/Glioblastoma - _National Cancer Institute_
 
