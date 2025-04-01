@@ -203,10 +203,12 @@ Taking into account age, we can create an interactive box plot. Here's an exampl
 
 <iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="500px"></iframe>
 
-Furthermore, we can plot the rate of speech respiration against the duration of pause intervals, and see similarities between the PD group and the group at risk (when compared to healthy controls).
+<br>
+
+We can additionally plot the rate of speech respiration against the duration of pause intervals, and see similarities between the PD group and the group at risk (when compared to healthy controls).
 
 <p align="center">
-  <img src="images/Rate of Speech Respiration vs Duration of Pause Intervals.jpg?raw=true" style="width: 80%; height: 80%;" class="pd" />
+  <img src="images/Rate of Speech Respiration vs Duration of Pause Intervals.jpg?raw=true" style="width: 90%; height: 90%;" class="pd" />
 </p>
 
 
