@@ -1,4 +1,4 @@
-# Biomedical Data Scientist
+# Michael Popa
 
 #### Technical Skills: Python, MATLAB, R, SQL, AWS, Git, SPM, AFNI
 
