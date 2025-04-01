@@ -17,6 +17,9 @@ img {
   border-radius: 50%;
   border: 3px solid #dbd0d0; /* Adjust color and thickness as needed */
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  /* Shadow */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Exclude or customize the style for images with the .no-style class */
