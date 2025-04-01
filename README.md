@@ -66,7 +66,7 @@ The underlying mechanisms of SIDS remain elusive due to its unpredictability on 
 <br><br>
 Raw ECG data was extensively preprocessed to extract meaningful information (e.g., QRS complex morphology) to understand their relationship to SIDS.
 
-<img src="images/QRS Detection Large.jpg?raw=true" />
+<img src="images/QRS Detection Large.jpg?raw=true" class="bcm" />
 
 * **Data**: Readings collected from ~400 mice pups categorized into: Heart data, Breath data and Raw signal data.
 * **Feature Selection**: 192 Features collected for each mouse sample → 51 features selected and engineered to predict SIDS.
@@ -76,11 +76,11 @@ Two modeling approaches were explored: <br>
 
 (1) A **1D convolutional neural network (CNN) with Long Short-Term Memory (LSTM)** utilizing engineered tabular features.
 
-<img src="images/1D CNN with LSTM.jpg?raw=true" />
+<img src="images/1D CNN with LSTM.jpg?raw=true" class="bcm" />
 
 (2) A **2D CNN** utilizing spectrograms.
 
-<img src="images/2D CNN.jpg?raw=true" />
+<img src="images/2D CNN.jpg?raw=true" class="bcm" />
 
 The approaches showed great promise for future implementations. Though, the novel nature of this work the data collection was insufficient to accurately conclude model efficacy.
 <br><br>
