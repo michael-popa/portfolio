@@ -1,7 +1,8 @@
 # Michael Popa
 
-**Technical Skills**: Python, MATLAB, R, SQL, AWS, Git, SPM, AFNI
-
+<p align="center">
+  <b>Technical Skills</b>: Python, MATLAB, R, SQL, AWS, Git, SPM, AFNI
+</p>
 
 
 ## Education
