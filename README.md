@@ -11,7 +11,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <span><b>Rice University</b></span>
-  <span><b>Houston, TX</b></span>
+  <span>Houston, TX</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
