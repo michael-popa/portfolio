@@ -39,6 +39,16 @@ img {
   box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.25);  /* Shadow */
 }
 
+.left
+{
+  float: left;
+}
+
+.right
+{
+  float: right;
+}
+
 .circular-image {
   border-radius: 50%;
   border: 3px solid #dbd0d0; /* Adjust color and thickness as needed */
