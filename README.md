@@ -9,16 +9,13 @@
 
 <!-- * B.A., Cognitive Sciences | Rice University (_May 2024_) -->
 
-<div style="display: flex; justify-content: space-between;">
-  <span><b>Rice University</b></span>
-  <span>Houston, TX</span>
-</div>
+**<div style="display: flex; justify-content: space-between;">  <span>Rice University</span> <span>Houston, TX</span> </div>**
 
 <div style="display: flex; justify-content: space-between;">
-  <span>B.A in Computational Cognitive Sciences</span>
-  <span><i>May 2024</i></span>
+  <span><b>B.A in Computational Cognitive Sciences</b></span>
+  <span><b><i>May 2024</i></b></span>
 </div>
-Data Science and Neuroscience Minor
+<b>Data Science and Neuroscience Minor</b>
 
 <!--
 <div class='grid'>
