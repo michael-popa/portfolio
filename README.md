@@ -18,8 +18,7 @@
   <span>B.A in Computational Cognitive Sciences</span>
   <span><i>May 2024</i></span>
 </div>
-
-<br></br>
+Data Science and Neuroscience Minor
 
 <!--
 <div class='grid'>
@@ -34,7 +33,6 @@
   <p class='right'><i>May 2024</i></p>
 </div>
 -->
-
 
 ## Research
 **National Cancer Institute (NCI/NIH) | (_June 2024 - Oct. 2024_)**<br />
