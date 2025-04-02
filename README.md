@@ -7,11 +7,13 @@
 
 ## Education
 
-* B.A., Cognitive Sciences | Rice University (_May 2024_)
+<!-- * B.A., Cognitive Sciences | Rice University (_May 2024_) -->
 
 <div style="display: flex; justify-content: space-between;">
-  <span><b>B.A., Cognitive Sciences</b></span>
-  <span>Rice University <i>(May 2024)</i></span>
+  <span><b>Rice University</b></span>
+  <span><i>Houston, TX</i></span>
+  <span><b>B.A in Computational Cognitive Sciences</b></span>
+  <span><i>May 2024</i></span>
 </div>
 
 
