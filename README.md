@@ -15,10 +15,10 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span>     B.A in Computational Cognitive Sciences</span>
+  <span>B.A in Computational Cognitive Sciences</span>
   <span><i>May 2024</i></span>
 </div>
-     Data Science and Neuroscience Minor
+Data Science and Neuroscience Minor
 
 <!--
 <div class='grid'>
