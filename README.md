@@ -9,6 +9,7 @@
 
 <!-- * B.A., Cognitive Sciences | Rice University (_May 2024_) -->
 
+<!--
 <div style="display: flex; justify-content: space-between;">
   <span><b>Rice University</b></span>
   <span><i>Houston, TX</i></span>
@@ -17,6 +18,17 @@
 <div style="display: flex; justify-content: space-between;">
   <span><b>B.A in Computational Cognitive Sciences</b></span>
   <span><i>May 2024</i></span>
+</div>
+-->
+
+<div class='grid'>
+  <p class='left'><b>Rice University</b></p>
+  <p class='right'>Houston, TX</p>
+</div>
+
+<div class='grid'>
+  <p class='left'><b>B.A in Computational Cognitive Sciences</b></p>
+  <p class='right'><i>May 2024</i></p>
 </div>
 
 
