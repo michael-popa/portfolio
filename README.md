@@ -20,8 +20,6 @@
 </div>
 Data Science and Neuroscience Minor
 
----
-
 <!--
 <div class='grid'>
   <p class='left'><b>Rice University</b></p>
