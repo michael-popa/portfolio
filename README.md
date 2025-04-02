@@ -23,11 +23,13 @@
 
 <div class='grid'>
   <p class='left'><b>Rice University</b></p>
+  <p class='center'></p>
   <p class='right'>Houston, TX</p>
 </div>
 
 <div class='grid'>
-  <p class='left'><b>B.A in Computational Cognitive Sciences</b></p>
+  <p class='left'>B.A in Computational Cognitive Sciences</p>
+  <p class='center'></p>
   <p class='right'><i>May 2024</i></p>
 </div>
 
