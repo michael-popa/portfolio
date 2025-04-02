@@ -7,10 +7,11 @@
 
 ## Education
 
-<!-- * B.A., Cognitive Sciences | Rice University (_May 2024_) -->
+* B.A., Cognitive Sciences | Rice University (_May 2024_)
 
+<!--
 <div style="display: flex; justify-content: space-between;">  
-  <span>**Rice University**</span> 
+  <span><b>Rice University</b></span> 
   <span><b>Houston, TX</b></span> 
 </div>
 
@@ -19,6 +20,7 @@
   <span><i>May 2024</i></span>
 </div>
 Data Science and Neuroscience Minor
+-->
 
 <!--
 <div class='grid'>
