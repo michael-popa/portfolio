@@ -9,8 +9,8 @@
 
 <!-- * B.A., Cognitive Sciences | Rice University (_May 2024_) -->
 
-<div style="display: flex; justify-content: space-between;">
-  <span><b>Rice University</b></span>
+###### <div style="display: flex; justify-content: space-between;">
+  <span> Rice University</span>
   <span>Houston, TX</span>
 </div>
 
