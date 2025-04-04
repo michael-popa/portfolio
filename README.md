@@ -178,7 +178,7 @@ The activity of neurons in the visual cortex of a mouse were imaged with 2-photo
 The data transformation steps include: resampling (SMOTE, Undersampling, bootstrapping), feature selection (RFE, Lasso, Tree-based), dimensionality reduction, and feature engineering.
 
 <p align="center">
-  <img src="images/Engineered Features.jpg?raw=true" class="no-style" style="width: 85%; height: 85%;" />
+  <img src="images/Engineered Features.jpg?raw=true" class="no-style" style="width: 80%; height: 80%;" />
 </p>
 
 The focus was on four predictive modeling techniques: Support Vector Machines (SVMs), Random Forest (RF), Deep-Learning, and Model Stacking.
