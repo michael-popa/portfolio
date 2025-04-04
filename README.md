@@ -274,7 +274,7 @@ In **R**, we perform ANOVA testing with a Tukey Honest Significance Difference o
 
 Further, a variety of statistical tests and analysis is performed, such as Pearson correlation, R-squared, linear regression, t-test, and an f-statistic.
 
-Taking into account age, we can create an **interactive** box plot. Here's an example specifically for the reading task of the participants:
+Taking into account age, we can create an **interactive box plot**. Here's an example specifically for the reading task of the participants:
 
 <iframe src="https://michael-popa.github.io/Reading%20a%20Passage%20Age%20Group.html" width="100%" height="500px"></iframe>
 
