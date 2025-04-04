@@ -72,7 +72,7 @@ Once the best parameters and architectures are found, the encoder is used to rec
 Visualizing separability through t-SNE (which reduces dimensionality to two-dimensions) shows the autoencoder successfully separated the two classes, allowing for significant classification.
 
 <p align="center">
-  <img src="images/Figure 4 NCI.jpg?raw=true" class="nci" style="width: 85%; height: 85%;" />
+  <img src="images/Figure 4 NCI.jpg?raw=true" class="nci"/>
 </p>
 
 The result found 30+ novel significant metabolites that show promise as biomarkers for glioma. Future research will need to be done to truly understand their relationship to glioma.
