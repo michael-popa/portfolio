@@ -93,19 +93,21 @@ There are currently no known metabolomic biomarkers for glioblastoma.
 
 We utilize a combined feature selection approach, incorporating Least Absolute Shrinkage and Selection Operator (LASSO) and Minimum Redundancy–Maximum Relevance (mRMR), alongside a rank-based weighting method (i.e., MetaWise) to link metabolomic biomarkers to chemoradiotherapy (CRT) and survivability (e.g., 12-month and 20-month survival).
 <br><br>
-<img src="images/Architecture utilized for metabolomic-based feature selection.jpg?raw=true"/>
+<img src="images/Architecture utilized for metabolomic-based feature selection.jpg?raw=true" class="metawise" />
 
 The computational results show that the utilized method achieves 96.711%, 92.093%, and 86.910% accuracy rates with 48, 46, and 33 selected features for the CRT, 12-month, and 20-month OS-based metabolomic datasets, respectively. The following shows the results of the combined approach, with performance evaluated on a number of classifier models:
 
-<img src="images/LASSO = 2 and mRMR = 1.jpg?raw=true"/>
+<img src="images/LASSO = 2 and mRMR = 1.jpg?raw=true" class="metawise" />
 
 The two most significant features show significant separability pre- and post-radiation treatment, and have strong potential as metabolic biomarkers of glioma:
 
 <p align="center">
-  <img src="images/Separable Features.jpg?raw=true" class="no-style" style="width: 80%; height: 80%;" />
+  <img src="images/Separable Features.jpg?raw=true" class="metawise" style="width: 80%; height: 80%;" />
 </p>
 
-Lastly, ~20 of the found compounds overlap with the those in the aforementioned project methodology that focuses on deep-learning and autoencoder dimensionality reduction. Further research will utilize the metabolomic markers and investigate their relationship to oncogenesis, tumor progression, and/or tumor reduction.
+Lastly, ~20 of the found compounds overlap with the those in the aforementioned project methodology that focuses on deep-learning and autoencoder dimensionality reduction. 
+
+Further research will utilize the metabolomic markers and investigate their relationship to oncogenesis, tumor progression, and/or tumor reduction.
 
 <br><br>
 <br><br>
