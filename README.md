@@ -69,7 +69,13 @@ Once the best parameters and architectures are found, the encoder is used to rec
 
 <img src="images/Figure 3 NCI.jpg?raw=true" class="nci" />
 
-The result found 30+ novel metabolites that may show promise as biomarkers for glioma.
+Visualizing separability through t-SNE (which reduces dimensionality to two-dimensions) shows the autoencoder successfully separated the two classes, allowing for significant classification.
+
+<p align="center">
+  <img src="images/Figure 4 NCI.jpg?raw=true" class="nci" style="width: 85%; height: 85%;" />
+</p>
+
+The result found 30+ novel significant metabolites that show promise as biomarkers for glioma. Future research will need to be done to truly understand their relationship to glioma.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
