@@ -79,7 +79,7 @@ Visualizing separability through **t-SNE** (which reduces dimensionality to two-
   <img src="images/Figure 4 NCI.jpg?raw=true" class="nci"/>
 </p>
 
-The result found 30+ novel significant metabolites that show promise as biomarkers for glioma. Future research will need to be done to truly understand their relationship to glioma.
+The result found **30+ novel metabolites** that show significant promise as biomarkers for glioma. Future research will need to be done to truly understand their relationship to glioma.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
