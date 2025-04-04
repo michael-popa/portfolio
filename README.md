@@ -59,9 +59,11 @@ Performed feature extraction, selection and engineering on multi-omic (proteomic
 
 This is in conjunction with research and development of AI models that can assist in revealing potential **serum biomarkers**, in addition to prediction of tumor characteristics (size, location, morphology, etc.) and patient outcomes.
 
-The high-dimensional dataset consisted of **6,015 metabolomic features** with only **214 patient serum samples**.
+There are currently **no known metabolomic biomarkers** for glioblastoma.
 
 <img src="images/Figure 1 NCI.jpg?raw=true" class="nci" />
+
+The high-dimensional dataset consisted of **6,015 metabolomic features** with only **214 patient serum samples**.
 
 The metabolomic data is first put into an **RFE w/ K-Fold CV** to find the most important features, which are then put into a **deep-learning stacked autoencoder** to compress the data. The compressed feature space is then put into another Random Forest to evaluate performance.
 
@@ -96,8 +98,6 @@ The result found 30+ novel significant metabolites that show promise as biomarke
 ---
 
 ### MetaWise: Combined Feature Selection and Weighting Method to Link the Serum Metabolome to Treatment Response and Survival in Glioblastoma - _National Cancer Institute_
-
-There are currently **no known metabolomic biomarkers** for glioblastoma.
 
 We utilize a combined feature selection approach, incorporating **Least Absolute Shrinkage and Selection Operator (LASSO) and Minimum Redundancy–Maximum Relevance (mRMR)**, alongside a rank-based weighting method (i.e., MetaWise) to link metabolomic biomarkers to chemoradiotherapy (CRT) and survivability (e.g., 12-month and 20-month survival).
 <br><br>
